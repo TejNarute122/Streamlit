@@ -1,0 +1,4 @@
+Important Links 
+1) Markdown Funnction - https://www.markdowngiude.offshoot.io/cheat-sheet/
+2) Latex Funnction - https://katex.org/docs/supported.html
+
